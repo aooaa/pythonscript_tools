@@ -1,10 +1,10 @@
-# pythonscript_tools
+# Pythonscript Tools
 常用Python脚本
-# auto_change_file_name
+# Auto Change File Name
 ## 脚本说明说明 
 按规则重命名无规则文件，重命名格式为 filetype + numbers 。
 
-# auto_del_dir
+# Auto Del Dir
 
 ##脚本说明
 递归删除相同目录（可以删除目录不为空的目录）
